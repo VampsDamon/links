@@ -175,13 +175,13 @@ links:
   #   Color: '#05CC46'
   #   Text_Color: '#ffffff'
 
-    # FIGMA
-  - Name: Figma
-    URL: https://www.figma.com
-    Username: '1163773090098381649'
-    Icon-Class: fab fa-figma
-    Color: '#ff2865'
-    Text_Color: '#ffffff'
+  #   # FIGMA
+  # - Name: Figma
+  #   URL: https://www.figma.com
+  #   Username: '1163773090098381649'
+  #   Icon-Class: fab fa-figma
+  #   Color: '#ff2865'
+  #   Text_Color: '#ffffff'
 
     # SPOTIFY
   - Name: Spotify
@@ -249,7 +249,7 @@ links:
     Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
-footer: 'No'
+footer: 'Yes'
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
 
